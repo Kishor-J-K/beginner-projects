@@ -1,2 +1,2 @@
 # beginner-projects
-These are my beginner level projects
+These are my beginner level projects.
